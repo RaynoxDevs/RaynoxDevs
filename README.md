@@ -1,6 +1,7 @@
 # Dev Web full-stack
 
 💻 JS • Python • Lua • C++
+
 ⚡ Langages & technos :  
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
