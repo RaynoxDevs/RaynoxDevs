@@ -1,6 +1,6 @@
-# 👋 Salut, moi c’est [TonPseudo]
+# Dev Web full-stack
 
-💻 Dev Web full-stack  
+💻 JS • Python • Lua • C++
 ⚡ Langages & technos :  
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -19,12 +19,12 @@
 
 ### 📂 Ce que tu trouveras ici
 - Projets web
-- Expérimentations avec mes langages préférés
-- Du code utile (parfois) et du code fun (souvent)
+- Expérimentations
+- Du code utile (parfois)
 
 ---
 
 ### 📊 Stats GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaynoxDevs&show_icons=true&theme=tokyonight)
 
 ---
