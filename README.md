@@ -20,7 +20,7 @@
 
 ### 📂 Ce que tu trouveras ici
 - Projets web
-- Expérimentations
-- Du code utile (parfois)
+- Des tests
+- Du code (rarement) utile
 
 ---
