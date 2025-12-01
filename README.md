@@ -12,13 +12,13 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 
 ---
-### ⚡ Frameworks & Outils
+###🔨 Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 
 ---
 
-### 📂 Ce que tu trouveras ici
+### 📂 Mes repo
 - Projets web
 - Des tests
 - Du code (rarement) utile
