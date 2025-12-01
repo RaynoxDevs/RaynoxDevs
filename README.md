@@ -1,4 +1,4 @@
-# Dev Web freelance full-stack
+# Dev Web full-stack freelance
 
 ### ⚡ Stack :  
 
