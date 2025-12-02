@@ -7,7 +7,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css&logoColor=black)
 
 ---
 ### 🔨 Frameworks et libs
