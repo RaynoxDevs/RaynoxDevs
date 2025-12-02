@@ -2,7 +2,7 @@
 
 ### ⚡ Stack :  
 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
